@@ -1,0 +1,51 @@
+@charset "utf-8";
+/*注册导航*/
+
+.logo h1 img{margin-left: 110px;width: 244px;height: 55px;}
+.register{width: 1000px;min-height: 394px;border-bottom: 3px solid #d21f01;margin: 0 auto;}
+
+.buzou{width:1000px;height: 40px;border-bottom: 2px solid #e6e6e6;}
+.buzou li{float: left;margin-top: 10px;height: 30px;margin-left: 50px;padding: 0 34px;margin-right: 80px;}
+.buzou li span{display: block;float: left;height: 20px;width: 20px;border-radius: 50%;background: #c40000;color: #fff;
+text-align: center;line-height: 20px;font-size: 14px;margin-right: 10px;}
+.buzou li strong{font-weight:300;color:#3e3e3e;font-size: 16px;}
+.buzou .active{border-bottom: 2px solid #c40000;}
+
+.buzoul{width: 700px;min-height:290px;margin-left: 260px;background: #989898;margin-top: 24px;}
+.buzoul label{width: 700px;display: block;}
+.buzoul input{height: 32px;border: 1px solid #cccccc;padding-left: 2px;color: #a9a9a9;font-size: 12px;margin-top: 25px;}
+.lab input{width:258px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
